@@ -1,0 +1,29 @@
+<resources>
+    <string name="terms_text">
+    1. Acceptance of Terms\n
+    By using this app, you agree to comply with and be bound by these terms.\n
+
+    2. User Accounts\n
+    You are responsible for maintaining the confidentiality of your login credentials.\n
+
+    3. Data Collection\n
+    This app may collect personal and fitness data to personalize your experience.\n
+
+    4. Usage Restrictions\n
+    You may not misuse the app or access it in unauthorized ways.\n
+
+    5. Health Disclaimer\n
+    This app is for general health tracking. Always consult a doctor before making health decisions.\n
+
+    6. Updates and Changes\n
+    We reserve the right to change these terms. Continued use means acceptance of changes.\n
+
+    7. Termination\n
+    We may terminate access to the app at any time without prior notice if terms are violated.\n
+
+    8. Contact\n
+    For questions about these terms, contact support@bitesoffitness.com.\n
+</string>
+
+</resources>
+
